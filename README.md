@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I am Teddy
+## I'm a junior front end developer
+## I am eager to learn new technologies and platforms!
+----------------------------------------------------------
+🔭 I’m currently working on my friends portfolio
+🌱 I’m currently learning react and advanced css + scss
+
 
 <!--
 **Tedbool/Tedbool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,6 @@
 ## I'm a junior front end developer <br/> I am eager to learn new technologies and platforms!
 
 ---------------------------------------------------------
-🔭 I’m currently working on my friend's portfolio
 
 🌱 I’m currently learning react and advanced css + scss
 

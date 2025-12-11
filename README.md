@@ -18,7 +18,7 @@ I am a Computer Science student currently working in IT Services, with a strong 
 
 ### 💼 **Experience**
 * **IT Specialist @ Nuvei** (2024 - Present)
-    * Managing enterprise systems (Okta, Cato VPN) and resolving complex IT issues.
+    * Managing enterprise systems (Okta, Cato VPN, AzureAD) and resolving complex IT issues.
 * **SAP Support & Instructor @ Ness Technologies** (2022 - 2024) 
     * Provided technical assistance for SAP MM modules and collaborated with development teams on bug fixes.
 * **Front End Intern @ LS Technologies** (2022) 

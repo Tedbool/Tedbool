@@ -1,31 +1,28 @@
-# Hello! I'm Teddy
+# Hello! I'm Teddy Boliasny
 
-## I'm a junior front end developer <br/> I am eager to learn new technologies and platforms!
+**BSc Computer Science Student | IT Specialist | Front End Enthusiast**
 
----------------------------------------------------------
+I am a Computer Science student currently working in IT Services, with a strong background in Front End development and system administration. I enjoy bridging the gap between software development and IT infrastructure.
 
-🌱 I’m currently learning react and advanced css + scss
+---
 
----------------------------------------------------------
-I started my fullstack course on September 2021 and been eager to advance in the field ever since
+### 🔭 **Current Status**
+* **Working as:** IT Specialist at **Nuvei** (Dec 2024 - Present) [1]
+* **Studying:** BSc in Computer Science at **Ramat-Gan Academic College** (Expected 2026) [2]
+* **Focusing on:** Expanding my knowledge in C++, Data Structures, and Algorithms while maintaining my Web Development skills.
 
-I worked at LS Technologies as an intern on a project called [Skill-il](https://skillil.co.il/)
+### 🛠 **Tech Stack & Skills**
+**Languages:** C++, Java, Python, JavaScript, SQL [3]
+**Web:** React, HTML, CSS/SCSS
+**Infrastructure & Tools:** Linux, Docker, Active Directory, Azure AD, Microsoft Entra ID [4]
 
-Nowadays I look for projects to do by myself focusing on react
+### 💼 **Experience**
+* **IT Specialist @ Nuvei** (2024 - Present)
+    * Managing enterprise systems (Okta, Cato VPN) and resolving complex IT issues.
+* **SAP Support & Instructor @ Ness Technologies** (2022 - 2024) [5]
+    * Provided technical assistance for SAP MM modules and collaborated with development teams on bug fixes.
+* **Front End Intern @ LS Technologies** (2022) [6]
+    * Built responsive UI components using React and customized CSS for the "Skill-il" project.
 
-
-<!--
-**Tedbool/Tedbool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[Skill-il]: [http://github.com/github/markup/tree/master/lib/github/commands/rest2html](https://skillil.co.il/)
+---
+📫 **Contact:** [linkedin.com/in/teddyboliasny](https://linkedin.com/in/teddyboliasny)
